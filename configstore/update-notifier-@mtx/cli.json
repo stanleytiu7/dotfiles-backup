@@ -1,0 +1,10 @@
+{
+	"optOut": false,
+	"lastUpdateCheck": 1650489508549,
+	"update": {
+		"latest": "5.1.0",
+		"current": "4.14.0",
+		"type": "major",
+		"name": "@mtx/cli"
+	}
+}
